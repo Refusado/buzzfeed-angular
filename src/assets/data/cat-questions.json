@@ -1,0 +1,83 @@
+{
+  "title":"Descubra qual o tipo de gato você seria!",
+  "questions":[
+    {
+      "id":1,
+      "question": "Se pudesse escolher, como você moraria para sempre?",
+      "options":[
+        {"id": 1, "name":"Moraria sozinho", "alias":"A"},
+        {"id": 2, "name":"Moraria com meus animais", "alias":"B"},
+        {"id": 3, "name":"Moraria em uma casa cheia", "alias":"C"},
+        {"id": 4, "name":"Moraria com um parceiro ou parceira", "alias":"D"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual a sua comida preferida dentre as opções?",
+      "options":[
+        {"id": 1, "name":"", "alias":"A"},
+        {"id": 1, "name":"", "alias":"B"},
+        {"id": 1, "name":"", "alias":"C"},
+        {"id": 1, "name":"", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "",
+    "B": ""
+  },
+
+
+
+
+
+  "Afetuosos": [
+    "Gato Sokoke",
+    "Gato Devon Rex",
+    "Turkish Van",
+    "Gato Savannah",
+    "Gato Azul Russo"
+  ],
+  "Inteligente": [
+    "Gato minskin",
+    "Sphynx",
+    "Gato elfo",
+    "Gato khao manee",
+    "Gato bobtail americano"
+  ],
+  "Curioso": [
+    "Gato ragamuffin",
+    "Maine coon",
+    "Gato singapura",
+    "Burmilla",
+    "Pixie-bob"
+  ],
+  "Extrovertido": [
+    "Gato chantilly-tiffany",
+    "Gato german rex ou rex alemão",
+    "Gato American Wirehair",
+    "Gato Birmanês",
+    "Turkish Van"
+  ],
+  "Ativo": [
+    "Lykoi ou Gato lobo",
+    "Gato Korat",
+    "Gato Snowshoe",
+    "Bengal",
+    "Gato caracat"
+  ],
+  "Calmo": [
+    "Gato british longhair",
+    "Gato Selkirk Rex",
+    "Gato Peterbald",
+    "Gato angorá turco",
+    "Gato Bombaim"
+  ],
+  "Tímido": [
+    "Havana",
+    "Mau egípcio",
+    "Ocicat",
+    "Chartreux",
+    "Europeu"
+  ]
+}

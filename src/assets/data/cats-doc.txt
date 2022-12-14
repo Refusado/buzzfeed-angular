@@ -1,0 +1,49 @@
+Afetuosos:
+	- Gato Sokoke
+	- Gato Devon Rex
+	- Turkish Van
+	- Gato Savannah
+	- Gato Azul Russo
+
+Inteligente:
+	- Gato minskin
+	- Sphynx
+	- Gato elfo
+	- Gato khao manee
+	- Gato bobtail americano
+
+Curioso:
+	- Gato ragamuffin
+	- Maine coon
+	- Gato singapura
+	- Burmilla
+	- Pixie-bob
+
+Extrovertido:
+	- Gato chantilly-tiffany
+	- Gato german rex ou rex alemão
+	- Gato American Wirehair
+	- Gato Birmanês
+	- Turkish Van
+
+Ativo:
+	- Lykoi ou Gato lobo
+	- Gato Korat
+	- Gato Snowshoe
+	- Bengal
+	- Gato caracat
+	- Gato tonquinês
+
+Calmo:
+	- Gato british longhair
+	- Gato Selkirk Rex
+	- Gato Peterbald
+	- Gato angorá turco
+	- Gato Bombaim
+
+Tímido:
+	- Havana
+	- Mau egípcio
+	- Ocicat
+	- Chartreux
+	- Europeu
